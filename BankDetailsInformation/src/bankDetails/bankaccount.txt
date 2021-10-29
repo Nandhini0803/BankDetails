@@ -1,0 +1,12 @@
+name,age,gender,bank,cardnumber,creditlimit
+Sita,25,f,axis,*1234,10000
+Geeta,27,f,hdfc,*4321,1000
+Mira,26,f,axis,*3214,1500
+Rama,25,m,axis,*2134,1000
+Neha,25,f,icici,*1324,10000
+Seema,25,f,hdfc,*2513,10000
+Amy,25,f,icici,*5678,10000
+Veena,25,f,axis,*6785,10000
+Siya,27,f,hdfc,*7856,1000
+John,26,m,axis,*8567,1500
+Priya,25,f,axis,*6785,1000
